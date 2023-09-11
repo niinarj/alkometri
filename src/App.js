@@ -83,4 +83,4 @@ export default App;
 //git remote add origin hhtps.://
 //git add .
 //git commit -m "Viesti"
-//git push -u master
+//git push -u origin master
